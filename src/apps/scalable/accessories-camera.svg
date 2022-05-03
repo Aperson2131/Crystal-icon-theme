@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
    version="1.1"
    viewBox="0 0 16.933 16.933"
    id="svg99"
    sodipodi:docname="accessories-camera.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,22 +24,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
      id="namedview101"
      showgrid="false"
-     inkscape:zoom="4.5906698"
-     inkscape:cx="10.505888"
-     inkscape:cy="34.00686"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="3.2718003"
+     inkscape:cx="-5.5015582"
+     inkscape:cy="16.199032"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg99" />
+     inkscape:current-layer="svg99"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs57">
     <linearGradient
        id="linearGradient902"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -285,9 +285,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1057"
-       x="-0.027000001"
+       x="-0.026999999"
        width="1.054"
-       y="-0.027000001"
+       y="-0.026999999"
        height="1.054">
       <feGaussianBlur
          inkscape:collect="always"
@@ -324,7 +324,18 @@
        y1="9.3892002"
        x2="-15.554945"
        y2="9.3892002"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1358309,0,0,1.1358309,2.760899,-1.2753436)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1000"
+       id="linearGradient1931"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.122"
+       y1="9.3424"
+       x2="-15.582"
+       y2="9.3424"
+       gradientTransform="matrix(1.1358309,0,0,1.1358309,2.760899,-1.2753436)" />
   </defs>
   <metadata
      id="metadata59">
@@ -360,14 +371,14 @@
      id="g97">
     <ellipse
        cx="-20.326"
-       cy="9.3892"
+       cy="9.3892002"
        id="circle65"
-       style="fill:url(#linearGradient2362);fill-opacity:1.0"
-       stroke-dashoffset=".42096"
-       stroke-width=".41831"
+       style="fill:url(#linearGradient2362);fill-opacity:1;stroke:url(#linearGradient1931)"
+       stroke-dashoffset="0.42096"
+       stroke-width="0.475129"
        stroke="url(#linearGradient1000)"
        fill="none"
-       r="4.5619" />
+       r="5.1815472" />
     <g
        transform="translate(1.442 .17857)"
        id="g95">
